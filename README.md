@@ -1,1 +1,2 @@
 # NVimConfig
+Should work
