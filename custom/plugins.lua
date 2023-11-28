@@ -1,5 +1,3 @@
-overrides = require("custom.overrides")
-
 local plugins = {
   {
     "christoomey/vim-tmux-navigator",
